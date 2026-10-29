@@ -1,0 +1,14 @@
+src/torchturbo/engine/backends/fsdp2/checkpoint/manager.py
+  h_d331cfe5de25fa 115-123,125-126,140-180,188-194,196-197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "eb98b9c53462fdddc37663c5be8133e15a1c7524",
+  "prompts": {},
+  "humans": {
+    "h_d331cfe5de25fa": {
+      "author": "Glucose-180 <Glucose180@163.com>"
+    }
+  }
+}
