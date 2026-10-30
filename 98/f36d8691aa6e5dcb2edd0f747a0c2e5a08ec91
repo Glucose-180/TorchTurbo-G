@@ -1,0 +1,35 @@
+src/torchturbo/engine/backends/fsdp2/checkpoint/manager.py
+  h_d331cfe5de25fa 115-123,125-126,140-180,188-194,196-197
+  h_d331cfe5de25fa 9-11,13,18-20,26,98,100-102,105-114,124,127-139,181-187,195,198-219
+README.md
+  h_d331cfe5de25fa 249-250,267-271
+README_zh.md
+  h_d331cfe5de25fa 216-217,233-237
+scripts/runs/config_example.yaml
+  h_d331cfe5de25fa 69-71
+src/torchturbo/engine/args.py
+  h_d331cfe5de25fa 158-161,196,708-719
+src/torchturbo/engine/backends/base.py
+  h_d331cfe5de25fa 69
+src/torchturbo/engine/checkpoint/coordinator.py
+  h_d331cfe5de25fa 102-106,148,325-333
+src/torchturbo/engine/config.py
+  h_d331cfe5de25fa 354-357,361,369-373
+tests/engine/backends/fsdp2/test_checkpoint_manager.py
+  h_d331cfe5de25fa 147-283
+tests/engine/test_core.py
+  h_d331cfe5de25fa 141
+tests/engine/test_engine_config_loading.py
+  h_d331cfe5de25fa 750-765
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "98f36d8691aa6e5dcb2edd0f747a0c2e5a08ec91",
+  "prompts": {},
+  "humans": {
+    "h_d331cfe5de25fa": {
+      "author": "Glucose-180 <Glucose180@163.com>"
+    }
+  }
+}
