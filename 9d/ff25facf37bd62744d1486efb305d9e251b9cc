@@ -1,0 +1,22 @@
+scripts/checkpoint/merge_lora_adapter.py
+  s_a471de693c642c::t_0307660259c671 260-267
+  s_a471de693c642c::t_8c22b06309c351 1-259,268-271
+tests/scripts/test_merge_lora_adapter.py
+  s_a471de693c642c::t_13c67ceab4aec1 1-186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9dff25facf37bd62744d1486efb305d9e251b9cc",
+  "prompts": {},
+  "sessions": {
+    "s_a471de693c642c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17c03-888d-78c1-a2a8-44f9c84e0b4b",
+        "model": "glm-5.3"
+      },
+      "human_author": "Glucose-180 <Glucose180@163.com>"
+    }
+  }
+}
