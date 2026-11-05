@@ -1,0 +1,23 @@
+scripts/checkpoint/convert_lora_adapter_to_sglang.py
+  s_a471de693c642c::t_6bb0a0249ab0c2 71,129-131
+  s_a471de693c642c::t_ae599f1be2f528 233-238
+  s_a471de693c642c::t_b97b55c2d13fec 1-70,72-128,132-232,239-308
+tests/scripts/test_convert_lora_adapter_to_sglang.py
+  s_a471de693c642c::t_916f5011f4a133 1-193
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "77bcc359e674d7313e82d79e0d54dd119c7cda62",
+  "prompts": {},
+  "sessions": {
+    "s_a471de693c642c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17c03-888d-78c1-a2a8-44f9c84e0b4b",
+        "model": "glm-5.3"
+      },
+      "human_author": "Glucose-180 <Glucose180@163.com>"
+    }
+  }
+}
