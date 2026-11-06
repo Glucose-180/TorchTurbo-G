@@ -1,0 +1,23 @@
+tests/engine/backends/fsdp2/test_checkpoint_manager.py
+  s_a471de693c642c::t_4cec46e3cb04a5 385-386,390-400
+  s_a471de693c642c::t_79e2518425d623 387
+  s_a471de693c642c::t_5f001f14f18234 401
+tests/engine/test_core.py
+  s_a471de693c642c::t_8c2dede01e6bc8 409
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ef15e32d74784a04fc64c3c645532c1f98f383bb",
+  "prompts": {},
+  "sessions": {
+    "s_a471de693c642c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17c03-888d-78c1-a2a8-44f9c84e0b4b",
+        "model": "glm-5.3"
+      },
+      "human_author": "Glucose-180 <Glucose180@163.com>"
+    }
+  }
+}
