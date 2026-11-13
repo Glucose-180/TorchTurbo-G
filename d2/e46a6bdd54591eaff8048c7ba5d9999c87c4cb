@@ -1,0 +1,54 @@
+src/torchturbo/parallel/fsdp.py
+  s_2303fb186a3407::t_dde0440068df0e 15-22,197-249
+  s_2303fb186a3407::t_93a062a9a7f4bb 8
+scripts/runs/config_example.yaml
+  s_2303fb186a3407::t_fe9536f5aaf221 23-24,28-34
+tests/engine/backends/fsdp2/test_backend_plan.py
+  s_2303fb186a3407::t_88974126722786 165-191
+  s_2303fb186a3407::t_36550f3a07c4df 162,192-209
+  s_2303fb186a3407::t_6520890ff80f87 210
+  s_2303fb186a3407::t_3459d56060cfcf 150-153,158-159
+  s_2303fb186a3407::t_621aa4321b41a8 27,110,130-149,154-157,161
+  s_2303fb186a3407::t_1323fccbeca59a 1403
+  s_2303fb186a3407::t_20c1fda28c0a70 163-164
+tests/models/qwen3_5/test_vision_balance.py
+  s_2303fb186a3407::t_0da96c3ad4c24e 61,69
+  s_2303fb186a3407::t_db9c9c432f5d61 23
+src/torchturbo/engine/core.py
+  s_2303fb186a3407::t_43fc8c774c522b 757,776-779
+src/torchturbo/engine/backends/fsdp2/backend.py
+  s_2303fb186a3407::t_db677f72a6df3b 545-548
+  s_2303fb186a3407::t_32494d73c852ef 439
+  s_2303fb186a3407::t_33fd86b1617a74 132-134,192
+  s_2303fb186a3407::t_9412fc446ac2de 97-115,124,138,145,148,154-155,157,161,163,196-197
+  s_2303fb186a3407::t_8375648dde738d 47-48
+  s_2303fb186a3407::t_f45d9e1f7b1fa2 500-501,504-505,507-508
+  s_2303fb186a3407::t_b5440ee0933ff5 4,471-482,528-533,537,543,550-574
+  s_2303fb186a3407::t_24275d719a8ee7 166-174,193-194
+  s_2303fb186a3407::t_457282a7d2b693 483-485,496-499,502-503,506,509-512,522-527
+  s_2303fb186a3407::t_6a05ac46e986b6 486-493
+  s_2303fb186a3407::t_3aabd672660ee7 1024-1039
+  s_2303fb186a3407::t_7bc7f05c2aa331 116-123,125-131,135-137,139-144,146-147,149-153,156,158-160,162,164-165,175-191,195
+tests/engine/test_engine_config_loading.py
+  s_2303fb186a3407::t_cde94c1d29a243 45,48,1055-1060,1083-1084,1126-1127,1130,1166,1191-1193,1212-1215,1217-1219
+src/torchturbo/parallel/__init__.py
+  s_2303fb186a3407::t_1caf34890660c9 7,10-11,22-24
+tests/parallel/test_fsdp_plan.py
+  s_2303fb186a3407::t_0bea6c12f29f39 16,23,106-162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d2e46a6bdd54591eaff8048c7ba5d9999c87c4cb",
+  "prompts": {},
+  "sessions": {
+    "s_2303fb186a3407": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1be33-61e9-7a51-8b79-fc53aa01fc95",
+        "model": "glm-5.3"
+      },
+      "human_author": "Glucose-180 <Glucose180@163.com>"
+    }
+  }
+}
