@@ -1,0 +1,22 @@
+src/torchturbo/engine/backends/fsdp2/checkpoint/manager.py
+  s_a471de693c642c::t_1139e1a66ea091 126-128
+  s_a471de693c642c::t_557b0ae3e78bbc 144-145,212,215,246,268
+  s_a471de693c642c::t_e48cf8a860f42e 146
+  s_a471de693c642c::t_766cf30fca23ab 154
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e7ad3d1cdd523ace692c294c72c78a2686f6a9d2",
+  "prompts": {},
+  "sessions": {
+    "s_a471de693c642c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17c03-888d-78c1-a2a8-44f9c84e0b4b",
+        "model": "glm-5.3"
+      },
+      "human_author": "Glucose-180 <Glucose180@163.com>"
+    }
+  }
+}
