@@ -1,0 +1,40 @@
+src/torchturbo/engine/args.py
+  s_a471de693c642c::t_244e76f68b051c 158-159,196,709-713,715
+tests/engine/test_engine_config_loading.py
+  s_a471de693c642c::t_1f4f0dab4ee3ae 750,754,757,760-762,766-780
+  s_a471de693c642c::t_590cfc2ef23d79 781-782
+src/torchturbo/engine/config.py
+  s_a471de693c642c::t_8c66da5895b85d 354-355,357,361,369,371-372
+README.md
+  s_a471de693c642c::t_95a90266ae7e1a 267-268
+README_zh.md
+  s_a471de693c642c::t_ed9fc253c5b331 233-234
+scripts/runs/config_example.yaml
+  s_a471de693c642c::t_7a8f3716bac406 69,71
+src/torchturbo/engine/backends/base.py
+  s_a471de693c642c::t_bf41ab8165027d 69
+src/torchturbo/engine/backends/fsdp2/checkpoint/manager.py
+  s_a471de693c642c::t_4faa782254b578 108,110
+src/torchturbo/engine/checkpoint/coordinator.py
+  s_a471de693c642c::t_4aa3557c2f550b 102,148,331-332
+tests/engine/backends/fsdp2/test_checkpoint_manager.py
+  s_a471de693c642c::t_710b58f3426e45 177,246,292,311
+tests/engine/test_core.py
+  s_a471de693c642c::t_8bad96da73d2ba 141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "85ae8d7c056d9925b9109c59e3e368882a63ea65",
+  "prompts": {},
+  "sessions": {
+    "s_a471de693c642c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17c03-888d-78c1-a2a8-44f9c84e0b4b",
+        "model": "glm-5.3"
+      },
+      "human_author": "Glucose-180 <Glucose180@163.com>"
+    }
+  }
+}
