@@ -1,0 +1,29 @@
+scripts/checkpoint/merge_lora_adapter.py
+  s_a471de693c642c::t_5fb3432460ab89 139-149,156-157,260-263,289-294,296-297,302
+  s_a471de693c642c::t_b26d3b7396397e 15,27-30
+  s_a471de693c642c::t_a01740cad6a9e1 160-244
+  s_a471de693c642c::t_f3b00d0f88decd 349,357-359
+  s_a471de693c642c::t_343caed1e7e2bd 138
+  s_a471de693c642c::t_1a65cd84e034d5 17,20
+  s_a471de693c642c::t_9509a14ff73b88 298-301
+  s_a471de693c642c::t_5d22493010a647 150-155,158-159
+tests/scripts/test_merge_lora_adapter.py
+  s_a471de693c642c::t_780d4b9f3b34a7 119-140,143-155,157-159,161-164
+  s_a471de693c642c::t_00c78f13e0afa0 117-118,141-142,156,160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "487601206797f55ef570bac56ce0735857d7ed18",
+  "prompts": {},
+  "sessions": {
+    "s_a471de693c642c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17c03-888d-78c1-a2a8-44f9c84e0b4b",
+        "model": "glm-5.3"
+      },
+      "human_author": "Glucose-180 <Glucose180@163.com>"
+    }
+  }
+}
