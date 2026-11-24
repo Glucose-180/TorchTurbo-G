@@ -1,0 +1,29 @@
+src/torchturbo/engine/core.py
+  s_2303fb186a3407::t_daea1fbe0751e3 353-355
+  s_2303fb186a3407::t_08b436eaa3d3f5 341-351,356,359-364
+src/torchturbo/engine/backends/fsdp2/backend.py
+  s_2303fb186a3407::t_904da7431ce8a8 608,645-649
+  s_2303fb186a3407::t_fb6d48b5e37b1a 5,650
+src/torchturbo/engine/backends/base.py
+  s_2303fb186a3407::t_d258dbcc868ad6 6,143,159-163
+tests/engine/test_core.py
+  s_2303fb186a3407::t_847aa9b686ab33 168-170,172-173,380,387-388
+tests/engine/backends/fsdp2/test_backend_plan.py
+  s_2303fb186a3407::t_899a55be2547c1 214-237
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4556cefde8dd7f443918b16d8453c6d511340fdb",
+  "prompts": {},
+  "sessions": {
+    "s_2303fb186a3407": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1be33-61e9-7a51-8b79-fc53aa01fc95",
+        "model": "glm-5.4"
+      },
+      "human_author": "Glucose-180 <Glucose180@163.com>"
+    }
+  }
+}
