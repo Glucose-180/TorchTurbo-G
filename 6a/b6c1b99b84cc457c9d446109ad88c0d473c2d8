@@ -1,0 +1,16 @@
+src/torchturbo/engine/backends/fsdp2/backend.py
+  h_d331cfe5de25fa 178-179
+src/torchturbo/parallel/fsdp.py
+  h_d331cfe5de25fa 15,205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6ab6c1b99b84cc457c9d446109ad88c0d473c2d8",
+  "prompts": {},
+  "humans": {
+    "h_d331cfe5de25fa": {
+      "author": "Glucose-180 <Glucose180@163.com>"
+    }
+  }
+}
